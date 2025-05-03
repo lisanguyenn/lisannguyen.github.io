@@ -3,17 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Jane Roe"
+  title: "Lisa Nguyen"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects and Publications
+      - href: Resume_Spring 2025
 
 format:
   html:
-    theme: cosmo
+    theme: trestles
     css: styles.css
     toc: true
 
